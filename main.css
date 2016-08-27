@@ -1,0 +1,42 @@
+body {
+	background-color: #458B00;
+	padding: 0;
+	margin: 0;
+}
+
+.main-header {
+	background-color: pink;
+	height: 160px;
+	width: 880px;
+	margin: 20px;
+	margin-bottom: 0px;
+}
+
+section {
+	background-color: #800020;
+}
+
+.main-section {
+	float: left;
+	margin: 20px;
+	height: 700px;
+	width: 880px;
+}
+
+.sidebar {
+	position: fixed;
+    top: 0px;
+    right: 0px;
+    margin: 20px;
+    height: 430px;
+    width: 335px;
+}
+
+.post-history {
+	position: fixed;
+	bottom: 0px;
+	right: 0px;
+	margin: 20px;
+	height: 177px;
+	width: 335px;
+}
